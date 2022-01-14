@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <div>Lets Get Started!</div>
-      <p>This is also availiable!</p>
+      <p>This is also availia!</p>
     </div>
   );
 }
