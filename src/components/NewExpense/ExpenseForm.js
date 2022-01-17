@@ -19,7 +19,7 @@ function ExpenseForm() {
     });
   };
   const amountChangeHandles = (event) => {
-    // setEnteredAmount(event.target.value);
+    setEnteredAmount(event.target.value);
     setUserInput({
       ...userInput,
       enteredAmount: event.target.value,
